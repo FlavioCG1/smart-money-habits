@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Smart Money Habits</title>
+  <description>Practical money basics with Alex and Jordan — budgeting, saving, and building smart money habits.
+
+AI Generated</description>
+  <language>en</language>
+  <itunes:author>Flavio Garcia</itunes:author>
+  <itunes:category text="Business">
+    <itunes:category text="Investing"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:owner>
+    <itunes:name>Flavio Garcia</itunes:name>
+    <itunes:email>flavio@example.com</itunes:email>
+  </itunes:owner>
+  <atom:link href="https://muse.ai/podcasts/feed/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/cover.png"/>
+  <image>
+    <url>https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/cover.png</url>
+    <title>Smart Money Habits</title>
+    <link>https://muse.ai/podcasts/feed/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545</link>
+  </image>
+  <item>
+    <title>Lifestyle Creep: Why Your Raises Disappear (And How to Keep More)</title>
+    <description>Alex and Jordan break down lifestyle creep and how to keep more of every raise with simple systems. Learn why your paycheck never feels bigger and the exact habits to keep more of what you earn.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-1bb575e8-bebb-44d3-978f-9f31a031d0e0.mp3" length="4540261" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1bb575e8-bebb-44d3-978f-9f31a031d0e0</guid>
+    <pubDate>Wed, 30 Sep 2026 14:10:31 +0000</pubDate>
+    <itunes:duration>567</itunes:duration>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Money Basics for Beginners: Budgeting, Saving &amp; Smart Habits That Actually Work</title>
+    <description>Alex and Jordan break down budgeting, saving, and money habits in a practical educational deep dive. Perfect for beginners who want to build smart money habits from scratch.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-fba379f0-416b-4589-9f98-058a429e989c.mp3" length="5983717" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-fba379f0-416b-4589-9f98-058a429e989c</guid>
+    <pubDate>Tue, 29 Sep 2026 19:39:37 +0000</pubDate>
+    <itunes:duration>747</itunes:duration>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
