@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
   <title>Smart Money Habits</title>
   <description>Season 1: Smart Starts — Practical money basics with Alex and Jordan — budgeting, saving, and building smart money habits.
@@ -10,26 +9,28 @@ AI Generated</description>
   <copyright>© 2026 Flavio Garcia. All rights reserved.</copyright>
   <itunes:author>Flavio Garcia</itunes:author>
   <itunes:category text="Business">
-    <itunes:category text="Investing"/>
+    <itunes:category text="Investing" />
   </itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:owner>
     <itunes:name>Flavio Garcia</itunes:name>
     <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
   </itunes:owner>
-  <atom:link href="https://muse.ai/podcasts/feed/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545" rel="self" type="application/rss+xml"/>
-  <itunes:image href="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/cover.png"/>
+  <atom:link href="https://muse.ai/podcasts/feed/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545" rel="self" type="application/rss+xml" />
+  <itunes:image href="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/cover.png" />
   <image>
     <url>https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/cover.png</url>
     <title>Smart Money Habits</title>
     <link>https://muse.ai/podcasts/feed/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545</link>
   </image>
-  <item>
+  <item><title>Automate Your Money: The Set-It-and-Forget-It System</title><description>Alex and Jordan build a set-it-and-forget-it money system — automatic savings, bills on autopilot, debt payments that run themselves, and the guardrails that keep it all safe.
+
+AI Generated</description><enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-98e23d8b-8138-4f44-baf2-e7882c5b9bd9.mp3" length="5564197" type="audio/mpeg" /><guid isPermaLink="false">ep-98e23d8b-8138-4f44-baf2-e7882c5b9bd9</guid><pubDate>Wed, 07 Oct 2026 10:30:08 +0000</pubDate><itunes:duration>695</itunes:duration><itunes:author>Flavio Garcia</itunes:author><itunes:explicit>false</itunes:explicit></item><item>
     <title>Spot the Scam: Protecting Your Money and Identity</title>
     <description>Alex and Jordan break down the most common financial scams — phishing, impersonation, romance and job scams, AI voice tricks — plus the credit freeze, code word, and recovery steps that protect your money.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-8eb848bb-24fe-4f5c-a003-546cc7c9c077.mp3" length="5510245" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-8eb848bb-24fe-4f5c-a003-546cc7c9c077.mp3" length="5510245" type="audio/mpeg" />
     <guid isPermaLink="false">ep-8eb848bb-24fe-4f5c-a003-546cc7c9c077</guid>
     <pubDate>Tue, 06 Oct 2026 10:28:43 +0000</pubDate>
     <itunes:duration>688</itunes:duration>
@@ -41,7 +42,7 @@ AI Generated</description>
     <description>What is Smart Money Habits? One practical money habit every day, in about ten minutes. No hype, no get-rich-quick schemes.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-8fcc519e-d45a-48df-ab98-83dd7bfdea18.mp3" length="380581" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-8fcc519e-d45a-48df-ab98-83dd7bfdea18.mp3" length="380581" type="audio/mpeg" />
     <guid isPermaLink="false">ep-8fcc519e-d45a-48df-ab98-83dd7bfdea18</guid>
     <pubDate>Mon, 05 Oct 2026 16:33:40 +0000</pubDate>
     <itunes:duration>47</itunes:duration>
@@ -54,7 +55,7 @@ AI Generated</description>
     <description>Alex and Jordan decode credit scores: the five factors that move your score, how to build credit from scratch, and the simple habits that raise it over time.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-38c70b3a-644f-4fc9-b97a-613dadc7c2bf.mp3" length="5323621" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-38c70b3a-644f-4fc9-b97a-613dadc7c2bf.mp3" length="5323621" type="audio/mpeg" />
     <guid isPermaLink="false">ep-38c70b3a-644f-4fc9-b97a-613dadc7c2bf</guid>
     <pubDate>Mon, 05 Oct 2026 10:28:58 +0000</pubDate>
     <itunes:duration>665</itunes:duration>
@@ -66,7 +67,7 @@ AI Generated</description>
     <description>Alex and Jordan break down the two best debt payoff strategies — the avalanche and the snowball — plus the minimum payment trap, where to find extra payoff money, and what to do with your payment once you're debt-free.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-f151165f-0757-4468-a741-907a2ddabaee.mp3" length="5357413" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-f151165f-0757-4468-a741-907a2ddabaee.mp3" length="5357413" type="audio/mpeg" />
     <guid isPermaLink="false">ep-f151165f-0757-4468-a741-907a2ddabaee</guid>
     <pubDate>Sun, 04 Oct 2026 10:28:41 +0000</pubDate>
     <itunes:duration>669</itunes:duration>
@@ -78,7 +79,7 @@ AI Generated</description>
     <description>Alex and Jordan break down the emergency fund: how much to save, where to keep it, and the simple automated system for building three to six months of expenses.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-fc0f4ca6-cce7-48fe-8822-dbe7863c3995.mp3" length="5200933" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-fc0f4ca6-cce7-48fe-8822-dbe7863c3995.mp3" length="5200933" type="audio/mpeg" />
     <guid isPermaLink="false">ep-fc0f4ca6-cce7-48fe-8822-dbe7863c3995</guid>
     <pubDate>Sat, 03 Oct 2026 13:03:00 +0000</pubDate>
     <itunes:duration>650</itunes:duration>
@@ -90,7 +91,7 @@ AI Generated</description>
     <description>Alex and Jordan explain sinking funds — the simple system of saving a little each month for big, predictable expenses so car repairs, holidays, and annual bills never wreck your budget.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-e8a5826a-d737-4173-948b-98e8115b3489.mp3" length="3804709" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-e8a5826a-d737-4173-948b-98e8115b3489.mp3" length="3804709" type="audio/mpeg" />
     <guid isPermaLink="false">ep-e8a5826a-d737-4173-948b-98e8115b3489</guid>
     <pubDate>Sat, 03 Oct 2026 12:57:00 +0000</pubDate>
     <itunes:duration>475</itunes:duration>
@@ -102,7 +103,7 @@ AI Generated</description>
     <description>Alex and Jordan break down zero-based budgeting: how to give every dollar a job, make savings and fun real line items, and rebuild the budget monthly so nothing leaks through the cracks.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-d67b91dd-def7-440b-aa1c-cb05fadcd460.mp3" length="5057125" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-d67b91dd-def7-440b-aa1c-cb05fadcd460.mp3" length="5057125" type="audio/mpeg" />
     <guid isPermaLink="false">ep-d67b91dd-def7-440b-aa1c-cb05fadcd460</guid>
     <pubDate>Sat, 03 Oct 2026 10:29:00 +0000</pubDate>
     <itunes:duration>632</itunes:duration>
@@ -114,7 +115,7 @@ AI Generated</description>
     <description>Alex and Jordan break down lifestyle creep and how to keep more of every raise with simple systems. Learn why your paycheck never feels bigger and the exact habits to keep more of what you earn.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-1bb575e8-bebb-44d3-978f-9f31a031d0e0.mp3" length="4540261" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-1bb575e8-bebb-44d3-978f-9f31a031d0e0.mp3" length="4540261" type="audio/mpeg" />
     <guid isPermaLink="false">ep-1bb575e8-bebb-44d3-978f-9f31a031d0e0</guid>
     <pubDate>Wed, 30 Sep 2026 14:10:31 +0000</pubDate>
     <itunes:duration>567</itunes:duration>
@@ -126,7 +127,7 @@ AI Generated</description>
     <description>Alex and Jordan break down budgeting, saving, and money habits in a practical educational deep dive. Perfect for beginners who want to build smart money habits from scratch.
 
 AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-fba379f0-416b-4589-9f98-058a429e989c.mp3" length="5983717" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/6aea18c0-37ae-44e1-8594-9c45906a1545/ep-fba379f0-416b-4589-9f98-058a429e989c.mp3" length="5983717" type="audio/mpeg" />
     <guid isPermaLink="false">ep-fba379f0-416b-4589-9f98-058a429e989c</guid>
     <pubDate>Tue, 29 Sep 2026 19:39:37 +0000</pubDate>
     <itunes:duration>747</itunes:duration>
